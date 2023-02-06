@@ -1,0 +1,19 @@
+.checkboxVazio {
+  display: block;
+  width: 24px;
+  height: 24px;
+  border: solid #FFE600;
+  border-radius: 8px;
+}
+.checkboxCheio img {
+  width: 15px;
+}
+.checkboxCheio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 24px;
+  height: 24px;
+  background-color: #FFE600;
+  border-radius: 8px;
+}
