@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/barbara/static/css/main.32e4a30b.css",
+    "main.js": "/barbara/static/js/main.65065ed2.js",
+    "static/media/bgVideo.mp4": "/barbara/static/media/bgVideo.cd5b1d7f3eafebbab295.mp4",
+    "index.html": "/barbara/index.html",
+    "main.32e4a30b.css.map": "/barbara/static/css/main.32e4a30b.css.map",
+    "main.65065ed2.js.map": "/barbara/static/js/main.65065ed2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32e4a30b.css",
+    "static/js/main.65065ed2.js"
+  ]
+}
