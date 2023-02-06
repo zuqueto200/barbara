@@ -2,6 +2,7 @@
   "name": "base",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://zuqueto200.github.io/barbara/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
