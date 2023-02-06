@@ -21,7 +21,7 @@ export default function Rotas() {
   return (
     <>
       <Routes>
-        <Route exact path="/" element={<Home />} />
+        <Route exact path="/barbara" element={<Home />} />
       </Routes>
  
     </>
